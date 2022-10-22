@@ -3,8 +3,8 @@
 title: Ryann
 
 # Full name (for SEO)
-first_name: Ryann
-last_name:
+first_name: Yin
+last_name: Pengbo
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ organizations:
     url: https://www.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Software Testing.
+bio: My research interests include Software Testing and Artificial Intelligence.
 
 # Interests to show in About widget
 interests:
@@ -45,13 +45,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/
   - icon: github
     icon_pack: fab
     link: https://github.com/Ryannn727
@@ -67,7 +67,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'Ryannn@whu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
