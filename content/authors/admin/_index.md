@@ -28,10 +28,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Artificial Intelligence
+    - course: MS in Artificial Intelligence
       institution: Wuhan University
       year: 2021
-    - course: BSc in Computer Science and Technology
+    - course: BEng in Computer Science and Technology
       institution: Wuhan University
       year: 2017
 
